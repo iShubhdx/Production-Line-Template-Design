@@ -1,0 +1,151 @@
+body{
+	scroll-behavior: smooth;
+}
+/*navbar*/
+.nav-bg{
+	background-color: black;
+}	
+/*navbar over*/
+/*header started*/
+.header{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-image: url(../images/banner.jpg);
+	padding: 120px 00px;
+}
+.header-text1{
+	margin-top: 20px;
+	letter-spacing: 2px;
+	line-height: 30px;
+	color: rgba(249,250,250,0.8);
+	font-family: calibri;
+}
+/*headers over*/
+/*section 2 started*/
+.section2{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: rgba(248,249,250,0.9);
+	background-size: 100% 100%;
+	padding: 120px 00px;
+}
+.read-button{
+	padding: 10px 20px;
+	background-color: white;
+	box-shadow: 2px 2px 5px grey;
+}
+/*section 2 over*/
+/*section 3 started*/
+.section3{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: white;
+	background-size: 100% 100%;
+	padding: 120px 00px;	
+}
+.card-text{
+	color: rgba(0,0,0,0.8);
+	font-family: calibri;
+}
+/*section 3 over*/	
+/*section 4 started*/
+.section4{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-image: url(../images/banner1.jpg);
+	padding: 100px 00px;	
+}
+.review-text{
+	font-family: calibri;
+	line-height: 30px;
+}
+.image-round{
+	border-radius: 80px;
+}
+/*section 4 over*/	
+/*section 5 started*/	
+.section5{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: white;
+	background-size: 100% 100%;
+	padding: 120px 00px;		
+}
+.feat-text1{
+	font-family: calibri;
+}	
+/*section 5 over*/	
+/*section 6 started*/
+.section6{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-image: url(../images/a.jpg);
+	padding:100px 00px;
+} 		
+/*section 6 over*/	
+/*section 7 started*/	
+.section7{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: rgba(249,250,250,0.9);
+	background-size: 100% 100%;
+	padding: 100px 00px;	
+}
+.card-bg{
+	padding: 20px 20px; 
+	margin-right: 20px; 
+	background-color: white;
+}
+.fontt{
+	font-family: calibri;
+	color: rgba(0,0,0,0.6);
+}
+/*section 7 over*/	
+/*section 8 started*/
+.section8{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: rgba(0,0,0,0.9);
+	background-size: 100% 100%;
+	padding: 80px 00px;		
+}	
+.ad{
+	color: rgba(249,250,250,0.3);
+}
+.FB{
+	background-color: rgba(59,89,152,0.9);
+}
+.TW{
+	background-color: rgba(27,149,223,0.9);
+}
+.GO{
+	background-color: rgba(221,75,57,0.9);	
+}
+/*section 8 over*/
+/*footer started*/
+.footer{
+	float: left;
+	clear: both;
+	width: 100%;
+	background-color: rgba(0,0,0,0.8);
+	background-size: 100% 100%;
+	padding: 50px 00px;	
+}
+/*footer started*/
